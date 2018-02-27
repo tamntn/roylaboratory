@@ -1,4 +1,4 @@
-<h1 style="text-align:center">Roy's Laboratory Website Documentation</h1>
+<h1 style="text-align:center; color: #CF142B; font-size: 43px">The Roy Laboratory</h1>
 
 # Table of Content
 - [Table of Content](#table-of-content)
@@ -91,18 +91,54 @@
 
 
 ## Pictures/Albums
-**Notes:** We're using ```Gallery by Supsystic``` as the plugin for our [gallery](https://roylaboratory.com/gallery/) page.
+**Notes:** We're using ```Gallery by Supsystic``` as the plugin for the [gallery](https://roylaboratory.com/gallery/) page.
 * On the Admin page, go to Gallery by Supsystic -> Galleries. You should see 5 main galleries:
     * Lab Tour
     * Around the Lab
     * Outside the Lab
     * Memorable Momemts
-    * Category: this gallery acts as the thumbnail for our main album. There are for pictures
+    * Category: this gallery acts as the thumbnail for the four galleries above. There are for pictures, which corresponds and redirects you to the four galleries' individual page.
 
 ## Members
+**Notes**: We're using ```AMO Team``` as the plugin for the [member](https://roylaboratory.com/current/) page.
+* On the Admin page, go to AMO Team -> Add New Member
+    * The **title** would be the member's Name
+    * Choose member's category as Graduate student or Undergraduate
+    * The **subtitle** would be anything you want to be listed under the name of the member (Ex: Sophomore, 3rd Year,...)
+    * Choose Format as ```Quote``` and add the quote under **Post Format**
+    * The description can be in different format. To add a description, click on **AMO Team** button above the text editor and choose text block. Edit the ```title, subtitle and the main text```
+* You can add new categories, for Post Doc or others by going to AMO Team -> Categories
 
 
 ## News (Post)
-
+* To view created posts, on the Admin page, go to Posts -> All Posts
+* To add a new post, go to Posts -> Add New
+    * Insert the title and body
+    * Make sure to check categories as **"News"**
+    * Click **Update** button
+* The post should automatically appear in News section
 
 ## Publication
+* On the Admin page, go to Pages -> All Pages
+* Click ```Publications```
+* Example of a publication:
+```
+[edsanimate_start entry_animation_type= "fadeIn" entry_delay= "0" entry_duration= "0.5" entry_timing= "linear" exit_animation_type= "" exit_delay= "" exit_duration= "" exit_timing= "" animation_repeat= "1" keep= "yes" animate_on= "scroll" scroll_offset= "50" custom_css_class= ""]
+
+10. HuR-targeted small molecule inhibitor exhibits cytotoxicity towards human lung cancer cells
+
+Muralidharan, R.; Mehta, M.; Ahmed, R.; Roy, S.; Xu, L.; Aubé, J.; Chen, A.; Zhao, Y.; Herman, T.; Ramesh, R.*; Munshi, A.*
+
+Scientific Reports 7, 2017, Article number: 9694.
+
+[edsanimate_end]
+```
+* Add URL to the title
+* Add picture if needed
+    * The picture needs to be **aligned center** (edit by clicking directly on the added picture)
+    * The picture also needs to have a **1px black border**. 
+        * To do this, switch to **Text** view. It's located on the top right corner of the editor.
+        * Add ```style="border: solid black 1px;"``` to the ```<img>``` tag. The result should look like this:
+```html
+<img class="aligncenter wp-image-287" style="border: solid black 1px;" src="http://50.87.249.193/~roylabor/wp-content/uploads/2017/08/9.png" alt="" width="320" height="293" />
+```
