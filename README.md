@@ -10,6 +10,9 @@
     - [Members](#members)
     - [News (Post)](#news-post)
     - [Publication](#publication)
+    - [Misc](#misc)
+        - [Page Align](#page-align)
+        - [Animate It!](#animate-it)
 
 ## Accounts Login Information
 * [Bluehost Hosting](https://my.bluehost.com/cgi-bin/cplogin) 
@@ -107,6 +110,10 @@
     * The **subtitle** would be anything you want to be listed under the name of the member (Ex: Sophomore, 3rd Year,...)
     * Choose Format as ```Quote``` and add the quote under **Post Format**
     * The description can be in different format. To add a description, click on **AMO Team** button above the text editor and choose text block. Edit the ```title, subtitle and the main text```
+    * Once you click **Publish**, new member is added but won't show on the Member page yet. Go back to All Members and copy the ```Member Shortcode```
+    * Go to Pages -> All Pages -> Current, add the short code to your disired position.
+    * Make sure you have the correct properties value in the short code as other members who were already added to the Member page.
+    * Check out the [Page Align](#page-align) section for how to align member items within the page.
 * You can add new categories, for Post Doc or others by going to AMO Team -> Categories
 
 
@@ -142,3 +149,15 @@ Scientific Reports 7, 2017, Article number: 9694.
 ```html
 <img class="aligncenter wp-image-287" style="border: solid black 1px;" src="http://50.87.249.193/~roylabor/wp-content/uploads/2017/08/9.png" alt="" width="320" height="293" />
 ```
+
+## Misc
+### Page Align
+* We use ```Column Shortcodes``` plugin to **align items within the page**
+* To see out how to use it, go to Plugins -> Installed Plugins -> Column Shortcodes
+* The use is pretty straight forward, just click ```[]``` button above of the editor in any page.
+### Animate It!
+* We use ```Animate It!``` plugin to **animate items within the page**
+* Refer to its [documentation](https://www.downloads.eleopard.in/animate-it-documentation-wordpress/) for how to use it.
+* There are already some animations within the page. It's best to keep the animations uniform and just use the same one across the site.
+    * ```fadeIn``` - used in Publications
+    * ```fadeIn``` - used in Members
