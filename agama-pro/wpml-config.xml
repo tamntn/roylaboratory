@@ -1,0 +1,73 @@
+<wpml-config>
+	<admin-texts>
+	    <key name="theme_mods_agama-pro">
+            <key name="agama_slider_title_1" />
+            <key name="agama_slider_title_2" />
+            <key name="agama_slider_title_3" />
+            <key name="agama_slider_title_4" />
+            <key name="agama_slider_title_5" />
+            <key name="agama_slider_title_6" />
+            <key name="agama_slider_title_7" />
+            <key name="agama_slider_title_8" />
+            <key name="agama_slider_title_9" />
+            <key name="agama_slider_title_10" />
+	        <key name="agama_slider_button_title_1" />
+            <key name="agama_slider_button_title_2" />
+            <key name="agama_slider_button_title_3" />
+	        <key name="agama_slider_button_title_4" />
+            <key name="agama_slider_button_title_5" />
+            <key name="agama_slider_button_title_6" />
+            <key name="agama_slider_button_title_7" />
+            <key name="agama_slider_button_title_8" />
+            <key name="agama_slider_button_title_9" />
+            <key name="agama_slider_button_title_10" />
+		    <key name="agama_frontpage_box_1_title" />
+		    <key name="agama_frontpage_box_2_title" />
+		    <key name="agama_frontpage_box_3_title" />
+		    <key name="agama_frontpage_box_4_title" />
+		    <key name="agama_frontpage_box_5_title" />
+		    <key name="agama_frontpage_box_6_title" />
+		    <key name="agama_frontpage_box_7_title" />
+		    <key name="agama_frontpage_box_8_title" />
+		    <key name="agama_frontpage_box_1_text" />
+		    <key name="agama_frontpage_box_2_text" />
+		    <key name="agama_frontpage_box_3_text" />
+		    <key name="agama_frontpage_box_4_text" />
+		    <key name="agama_frontpage_box_5_text" />
+		    <key name="agama_frontpage_box_6_text" />
+		    <key name="agama_frontpage_box_7_text" />
+		    <key name="agama_frontpage_box_8_text" />
+		    <key name="agama_frontpage_box_1_readmore_txt" />
+		    <key name="agama_frontpage_box_2_readmore_txt" />
+		    <key name="agama_frontpage_box_3_readmore_txt" />
+		    <key name="agama_frontpage_box_4_readmore_txt" />
+		    <key name="agama_frontpage_box_5_readmore_txt" />
+		    <key name="agama_frontpage_box_6_readmore_txt" />
+		    <key name="agama_frontpage_box_7_readmore_txt" />
+		    <key name="agama_frontpage_box_8_readmore_txt" />
+        </key>
+	</admin-texts>
+	<custom-types>
+		<custom-type translate="1">agama_portfolio</custom-type>
+		<custom-type translate="1">vision_portfolio</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">portfolio_categories</taxonomy>
+		<taxonomy translate="1">portfolio_skills</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="translate">_agama_pt_created_by</custom-field>
+		<custom-field action="translate">_agama_pt_completed_on</custom-field>
+		<custom-field action="translate">_agama_pt_project_url</custom-field>
+		<custom-field action="translate">_agama_pt_project_url_txt</custom-field>
+		<custom-field action="translate">_agama_pt_video</custom-field>
+		<custom-field action="translate">_agama_enable_slider</custom-field>
+		<custom-field action="translate">_agama_slider</custom-field>
+		<custom-field action="translate">_layer_slider</custom-field>
+		<custom-field action="translate">_revolution_slider</custom-field>
+		<custom-field action="translate">_vision_row_top_padding</custom-field>
+		<custom-field action="translate">_vision_row_bottom_padding</custom-field>
+		<custom-field action="translate">_agama_enable_sidebar</custom-field>
+		<custom-field action="translate">_agama_enable_social_share</custom-field>
+	</custom-fields>
+</wpml-config>

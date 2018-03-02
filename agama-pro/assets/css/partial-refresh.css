@@ -1,0 +1,43 @@
+/* Primary Navigation Area */
+.customize-partial-edit-shortcut-agama_header_search button {
+    left: -5px;
+}
+
+/* Breadcrumb */
+.customize-partial-edit-shortcut-agama_breadcrumb button {
+    top: -40px;
+    left: 0;
+}
+
+/* Front Page Boxes */
+.customize-partial-edit-shortcut-agama_frontpage_box_1_readmore_txt button,
+.customize-partial-edit-shortcut-agama_frontpage_box_2_readmore_txt button,
+.customize-partial-edit-shortcut-agama_frontpage_box_3_readmore_txt button,
+.customize-partial-edit-shortcut-agama_frontpage_box_4_readmore_txt button,
+.customize-partial-edit-shortcut-agama_frontpage_box_5_readmore_txt button,
+.customize-partial-edit-shortcut-agama_frontpage_box_6_readmore_txt button,
+.customize-partial-edit-shortcut-agama_frontpage_box_7_readmore_txt button,
+.customize-partial-edit-shortcut-agama_frontpage_box_8_readmore_txt button {
+    left: 27px;
+}
+
+/* Blog Area */
+.customize-partial-edit-shortcut-agama_blog_readmore_url button {
+    left: 75px;
+}
+
+/* WooCommerce */
+.customize-partial-edit-shortcut-agama_header_cart_icon button {
+    left: -7px;
+}
+
+/* Footer Area */
+.customize-partial-edit-shortcut-agama_footer_copyright button,
+.customize-partial-edit-shortcut-agama_footer_social button {
+    top: -10px;
+}
+span.to-top-cpreview {
+    position: fixed;
+    bottom: 35px;
+    right: 6%;
+}
