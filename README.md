@@ -7,6 +7,13 @@
         - [General](#general)
         - [Layout](#layout)
         - [Header](#header)
+        - [Navigations](#navigations)
+        - [Slider:](#slider)
+        - [Breadcrumb](#breadcrumb)
+        - [Front Page Boxes](#front-page-boxes)
+        - [Blog](#blog)
+        - [Social Icons](#social-icons)
+        - [Footer](#footer)
     - [Homepage Carousel Pictures](#homepage-carousel-pictures)
         - [Editting the first 2 images](#editting-the-first-2-images)
         - [Editting images after the first 2](#editting-images-after-the-first-2)
@@ -28,29 +35,29 @@
 * Gmail
     * ID: Roylab2017@gmail.com
 * [Agama Pro (Theme Vision)](https://theme-vision.com/my-account/) - Use this to download Agama Pro theme
-    * Username:roylaboratory
+    * Username: roylaboratory
 
 
 ## General Theme Information
 ### Site Identity
 * General:
-    * Site Title: The Roy Laboratory
-    * Tagline: University of Mississippi
+    * Site Title: ```The Roy Laboratory```
+    * Tagline: ```University of Mississippi```
     * Site Icon: Ole Miss Logo
 * Styling:
     * Logo Color: ```#CF142B```
     * Logo Hover: ```#142142```
 * Typography (for Title):
-    * Current Font: Crete Round
-    * Font Size: 35px
-    * Shrinked Font Size: 20px
+    * Current Font: ```Crete Round```
+    * Font Size: ```35px```
+    * Shrinked Font Size: ```20px```
 ### General
 * Body:
-    * Font: Raleway
-    * Variant: Normal 400
-    * Font size: 14px
-    * Line height: 1
-    * Color: #636363
+    * Font: ```Raleway```
+    * Variant: ```Normal 400```
+    * Font size: ```14px```
+    * Line height: ```1```
+    * Color: ```#636363```
 * Skins:
     * Light
     * Primary color: ```#CF142B```
@@ -60,8 +67,8 @@
     * Back to Top: ```On```
 * Additional CSS
 ### Layout
-* General: Full-width
-* Sidebar: Right
+* General: ```Full-width```
+* Sidebar: ```Right```
 ### Header
 * General:
     * Header style: ```Header V3```
@@ -75,6 +82,53 @@
     * Header background color: ```rgba(255, 255, 255, 1)```
     * Header shrinked BG color: ```rgba(255,255,255,0.97)```
     * Header bordered color: Default
+### Navigations
+* Navigation Top: ```On```
+    * Font Family: Roboto Condensed - Bold 700
+    * Font Size: ```13px```
+    * Color: ```#707070```
+    * Link Hover Color: ```#CF142B```
+* Navigation Primary:
+    * Font Family: Roboto Condensed - Bold 700
+    * Font Size: ```14px```
+    * Color: ```#474747```
+    * Link Hover Color: ```#CF142B```
+* Navigation Mobile:
+    * Font Family: Roboto Condensed - Bold 700
+    * Font Size: ```14px```
+    * Color: ```#757575```
+    * Link Hover Color: ```#333```
+### Slider:
+* General:
+    * Overlay: ```On```
+    * Overlay BG Color: ```rgba(21,59,84,0.15)```
+    * Height: ```0``` - 0 is full screen slider
+    * Time: ```4500```
+    * Visibility: Homepage
+* Particles:
+    * ```On```
+    * Circles Color: ```#0D30BF```
+    * Lines Color: ```#FF312D```
+### Breadcrumb
+* ```Off```
+### Front Page Boxes
+* ```Off```
+### Blog
+* General:
+    * Layout: ```List```
+    * Post Animation: ```Fade In Right```
+    * Featured Image Permalink: ```On```
+    * Excerpt: ```70```
+    * Read More: ```On```
+* Post Meta: everything on **except for** ```Category```
+### Social Icons
+* Top & Footer: ```On```
+* URL Target: ```_blank```
+### Footer
+* General:
+* Styling:
+    * Widget Area BG Color: ```#314150```
+    * Footer Area BG Color: ```#142142```
 
 
 ## Homepage Carousel Pictures
