@@ -1,8 +1,12 @@
-<h1 style="text-align:center; color: #CF142B; font-size: 43px">The Roy Laboratory</h1>
+# The Roy Laboratory
 
-# Table of Content
-- [Table of Content](#table-of-content)
+- [The Roy Laboratory](#the-roy-laboratory)
     - [Accounts Login Information](#accounts-login-information)
+    - [General Theme Information](#general-theme-information)
+        - [Site Identity](#site-identity)
+        - [General](#general)
+        - [Layout](#layout)
+        - [Header](#header)
     - [Homepage Carousel Pictures](#homepage-carousel-pictures)
         - [Editting the first 2 images](#editting-the-first-2-images)
         - [Editting images after the first 2](#editting-images-after-the-first-2)
@@ -23,6 +27,53 @@
     * ID: contact@roylaboratory.com
 * Gmail
     * ID: Roylab2017@gmail.com
+
+
+## General Theme Information
+### Site Identity
+* General:
+    * Site Title: The Roy Laboratory
+    * Tagline: University of Mississippi
+    * Site Icon: Ole Miss Logo
+* Styling:
+    * Logo Color: ```#CF142B```
+    * Logo Hover: ```#142142```
+* Typography (for Title):
+    * Current Font: Crete Round
+    * Font Size: 35px
+    * Shrinked Font Size: 20px
+### General
+* Body:
+    * Font: Raleway
+    * Variant: Normal 400
+    * Font size: 14px
+    * Line height: 1
+    * Color: #636363
+* Skins:
+    * Light
+    * Primary color: ```#CF142B```
+* Static Front Page: Latest posts
+* Extra:
+    * Nicescroll: optional
+    * Back to Top: ```On```
+* Additional CSS
+### Layout
+* General: Full-width
+* Sidebar: Right
+### Header
+* General:
+    * Header style: ```Header V3```
+    * Top border: 3
+* Logo: none. If you want to have a logo instead of the title "The Roy Laboratory", you can add it here
+* Header Image:
+    * Particles: ```On```
+    * Cirlces color: ```#1825b3```
+    * Lines color: ```#fa130f```
+* Styling: 
+    * Header background color: ```rgba(255, 255, 255, 1)```
+    * Header shrinked BG color: ```rgba(255,255,255,0.97)```
+    * Header bordered color: Default
+
 
 ## Homepage Carousel Pictures
 ### Editting the first 2 images
