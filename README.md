@@ -45,12 +45,12 @@
     * Tagline: ```University of Mississippi```
     * Site Icon: Ole Miss Logo
 * Styling:
-    * Logo Color: ```#CF142B```
-    * Logo Hover: ```#142142```
+    * Title Color: ```#CF142B```
+    * Title Hover: ```#142142```
 * Typography (for Title):
     * Current Font: ```Crete Round```
     * Font Size: ```35px```
-    * Shrinked Font Size: ```20px```
+    * Shrinked Font Size: ```28px```
 ### General
 * Body:
     * Font: ```Raleway```
@@ -60,11 +60,25 @@
     * Color: ```#636363```
 * Skins:
     * Light
-    * Primary color: ```#CF142B```
-* Static Front Page: Latest posts
+    * Primary Color: ```#CF142B```
+    * Links Color: ```#CF142B```
+    * Links Hover Color: ```#142142```
 * Extra:
-    * Nicescroll: optional
+    * Development Mode: ```Off```
+    * FontAwesome: ```On```
+    * Rich Snippets: ```On```
+    * Nicescroll: ```On```
     * Back to Top: ```On```
+* Headings: ```Currently Font Default```
+* Pages - Pages Title:
+    * Font Family: ```Raleway```
+    * Variant: ```700```
+    * Font Size: ```45px```
+    * Line Height: ```1.2```
+    * Color: ```#142142```
+* Comments:
+* Pre-Loader: ```Off```
+* Static Front Pages: Latest Posts
 * Additional CSS
 ### Layout
 * General: ```Full-width```
@@ -86,22 +100,23 @@
 * Navigation Top: ```On```
     * Font Family: Roboto Condensed - Bold 700
     * Font Size: ```13px```
-    * Color: ```#707070```
+    * Link Color: ```#707070```
     * Link Hover Color: ```#CF142B```
 * Navigation Primary:
     * Font Family: Roboto Condensed - Bold 700
     * Font Size: ```14px```
-    * Color: ```#474747```
+    * Link Color: ```#474747```
     * Link Hover Color: ```#CF142B```
 * Navigation Mobile:
-    * Font Family: Roboto Condensed - Bold 700
+    * Mobile Top Navigation: 
+    * Font Family: Raleway -  700
     * Font Size: ```14px```
-    * Color: ```#757575```
+    * Link Color: ```#757575```
     * Link Hover Color: ```#333```
 ### Slider:
 * General:
-    * Overlay: ```On```
-    * Overlay BG Color: ```rgba(21,59,84,0.15)```
+    * On Home: ```On```
+    * Loader: ```Bar```
     * Height: ```0``` - 0 is full screen slider
     * Time: ```4500```
     * Visibility: Homepage
@@ -109,6 +124,9 @@
     * ```On```
     * Circles Color: ```#0D30BF```
     * Lines Color: ```#FF312D```
+* Styling:
+    * Overlay: ```On```
+    * Overlay BG Color: ```rgba(21,59,84,0.18)```
 ### Breadcrumb
 * ```Off```
 ### Front Page Boxes
