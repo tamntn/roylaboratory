@@ -48,7 +48,7 @@
 ### SSL Certificate
 * Our site has free SSL Certificate from Bluehost, make sure it's always on!
 * To check if it's on or not, once loged in, go to **WordPress tools** tab -> **Security**
-* To renew the certificate, once loged in, go to **hosting** tab -> **cpanel** -> Find **SSL** -> **Show Renewal Options**
+* To renew the certificate, once loged in, go to **hosting** tab -> **cpanel** -> Find and go to **SSL** -> **Show Renewal Options**
 
 ## General Theme Information
 ### Site Identity
