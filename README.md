@@ -2,6 +2,9 @@
 
 - [The Roy Laboratory](#the-roy-laboratory)
     - [Accounts Login Information](#accounts-login-information)
+    - [Domain Information](#domain-information)
+        - [Domain Renew](#domain-renew)
+        - [SSL Certificate](#ssl-certificate)
     - [General Theme Information](#general-theme-information)
         - [Site Identity](#site-identity)
         - [General](#general)
@@ -37,6 +40,15 @@
 * [Agama Pro (Theme Vision)](https://theme-vision.com/my-account/) - Use this to download Agama Pro theme
     * Username: roylaboratory
 
+## Domain Information
+* Login with Bluehost Hosting
+### Domain Renew
+* Once loged in, go to **domains** Tab
+* Click on **roylaboratory.com** and check the domain expiration date + renewal option
+### SSL Certificate
+* Our site has free SSL Certificate from Bluehost, make sure it's always on!
+* To check if it's on or not, once loged in, go to **WordPress tools** tab -> **Security**
+* To renew the certificate, once loged in, go to **hosting** tab -> **cpanel** -> Find **SSL** -> **Show Renewal Options**
 
 ## General Theme Information
 ### Site Identity
@@ -127,6 +139,8 @@
 * Styling:
     * Overlay: ```On```
     * Overlay BG Color: ```rgba(21,59,84,0.18)```
+* Individual Slide:
+    * Button BG Color: ```#CF142B```
 ### Breadcrumb
 * ```Off```
 ### Front Page Boxes
@@ -138,7 +152,7 @@
     * Featured Image Permalink: ```On```
     * Excerpt: ```70```
     * Read More: ```On```
-* Post Meta: everything on **except for** ```Category```
+* Post Meta: everything on **except for** ```Category``` & ```Author```
 ### Social Icons
 * Top & Footer: ```On```
 * URL Target: ```_blank```
